@@ -33,7 +33,7 @@ h3 {
 ul {
     list-style: none;
     display: flex;
-    gap: 15px;
+    gap: 25px;
 
     margin: 0;
     padding: 0;
@@ -52,7 +52,7 @@ a {
 
 main {
     display: flex;
-    padding-bottom: 60px;
+    padding-bottom: 65px;
 }
 
 .text {
@@ -89,8 +89,18 @@ button {
     margin-top: 15px; 
 
     background-color: antiquewhite;
-    font-weight: 400;
+    font-weight: 600;
 
+    border-color: #A6C48A;
     border-radius: 2px;
+    border-style: none;
+
 }
 
+.some-information h4 {
+    font-size: 36px;
+    font-weight: 900;
+    
+    display: flex;
+    justify-content: center;
+}
