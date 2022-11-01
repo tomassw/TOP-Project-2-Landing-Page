@@ -99,7 +99,7 @@ button {
 
 .some-information h4 {
     font-size: 36px;
-    font-weight: 900;
+    font-weight: 600;
     
     display: flex;
     justify-content: center;
@@ -112,11 +112,12 @@ button {
     gap: 70px;
 
     padding-bottom: 150px;
+    padding-top: 50px
 
 }
 
 .learn-photos img {
-    border: 1px solid black;
+
 
     width: 175px;
     height: 175px;
@@ -132,5 +133,48 @@ button {
     font-weight: 600;
 }
 
+.quote-part {
+    background-color: #030301;
+    padding: 100px;
+
+}
+
+.quote-part p {
+    color: white;
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+
+    display: flex;
+    justify-content: center;
+}
+
+.circle {
+    display: inline;
+    color: white;
+
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 10px 30px;
+
+    margin-left: 1050px;
+}
+
+footer {
+    background-color: #030301;
+}
+
+footer p {
+    font-size: 14px;
+    font-weight: 300;
+
+    margin: 0;
+    padding-bottom: 20px;
+    
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+}
 
 
