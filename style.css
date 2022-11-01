@@ -111,6 +111,8 @@ button {
     justify-content: center;
     gap: 70px;
 
+    padding-bottom: 150px;
+
 }
 
 .learn-photos img {
@@ -122,5 +124,13 @@ button {
     margin: 0px;
     display: flex;
 }
+
+.learn-photos p {
+    display: flex;
+    justify-content: center;;
+
+    font-weight: 600;
+}
+
 
 
